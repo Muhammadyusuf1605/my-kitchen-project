@@ -6,11 +6,13 @@ import { SiTelegram } from "react-icons/si";
 import { TfiYoutube } from "react-icons/tfi";
 function Footer() {
   return (
-    <div className="site-container flex py-4 px-3 justify-between items-center">
+    <div className="site-container flex flex-col gap-3 md:flex-row justify-center py-4 px-3 md:justify-between items-center">
+      <div className="flex flex-col justify-center items-center md:flex-row">
       <h2 className="text-3xl text-cyan-300">
-        Author:{" "}
-        <span className="text-cyan-400">Ne'matjonov Muhammadyusuf</span>
+        Author:
       </h2>
+      <h2 className="text-3xl text-cyan-400">Ne'matjonov Muhammadyusuf</h2>
+      </div>
       <div className="text-5xl flex justify-center items-center gap-4">
         <Link to="/">
           <FaInstagram color="pink" />
@@ -19,7 +21,7 @@ function Footer() {
           <SiTelegram color="#527ff2" />
         </Link>
         <Link to="/">
-          <TfiYoutube color="red"/>
+          <TfiYoutube color="red" />
         </Link>
       </div>
     </div>

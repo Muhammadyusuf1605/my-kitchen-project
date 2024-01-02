@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+          "title": "osh",
+          "cukingtime": "90",
+            "ingradient": {
+               "1": "go'sht",
+                "2": "guruch",
+                "3": "piyoz",
+                "4": "yog'",
+                "5": "sabzi"
+            },
+            "image": "https://apps.bringo.uz/public/assets/products/250x250/1007741_3602252181.jpg",
+            "metod": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusantium vel inventore sequi, aspernatur expedita neque voluptate assumenda voluptates quisquam nemo possimus? Quasi voluptas optio unde, non eos nemo nulla vitae id eveniet porro fuga esse hic harum accusantium. Labore inventore, exercitationem veniam delectus unde et laborum. Dicta, voluptate rerum"
+        },
+        {
+            "title": "shaula",
+            "cukingtime": "80",
+              "ingradient": {
+                 "1": "go'sht",
+                  "2": "guruch",
+                  "3": "piyoz",
+                  "4": "yog'",
+                  "5": "sabzi"
+              },
+              "image": "https://apps.bringo.uz/public/assets/products/250x250/1007741_3602252181.jpg",
+              "metod": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias accusantium vel inventore sequi, aspernatur expedita neque voluptate assumenda voluptates quisquam nemo possimus? Quasi voluptas optio unde, non eos nemo nulla vitae id eveniet porro fuga esse hic harum accusantium. Labore inventore, exercitationem veniam delectus unde et laborum. Dicta, voluptate rerum"
+          }
+    ]
+}
